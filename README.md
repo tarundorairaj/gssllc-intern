@@ -1,10 +1,10 @@
-# first_flutter_app
+# MAZE APPLICATION
 
-A new Flutter project.
+My internship project while at Great Square LLC
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simple Maze application that I created as part of ramping up on learning Flutter for project work at Great Square LLC.
 
 A few resources to get you started if this is your first Flutter project:
 
